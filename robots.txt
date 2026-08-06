@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arounduslivelife.github.io/docs-3nzs0e/sitemap.xml
